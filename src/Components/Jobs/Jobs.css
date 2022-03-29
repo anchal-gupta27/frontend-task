@@ -1,0 +1,27 @@
+.jobs {
+    background: #E5E7EB;
+    padding: 2% 10%;
+}
+
+.jobs  h4 {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+.jobs .orange-line {
+    height: 5px;
+    background: #EC6436;
+    width: 100px;
+    display: flex;
+    margin: 0px auto;
+    border-radius: 20px;
+
+}
+
+.jobs .job-items {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+}
+

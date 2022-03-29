@@ -1,0 +1,27 @@
+.companies  {
+    padding: 1% 5%;
+    text-align: center;
+}
+
+.companies  h4 {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+.companies .orange-line {
+    height: 4px;
+    background: #EC6436;
+    width: 100px;
+    display: flex;
+    margin: 0px auto;
+    border-radius: 20px;
+
+}
+
+.companies .company-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
