@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/frontend-task/static/css/main.124d6aaa.css",
-    "main.js": "/frontend-task/static/js/main.256cfd79.js",
+    "main.css": "/frontend-task/static/css/main.fc60526e.css",
+    "main.js": "/frontend-task/static/js/main.35b80591.js",
     "static/js/787.71776601.chunk.js": "/frontend-task/static/js/787.71776601.chunk.js",
     "static/media/mit.png": "/frontend-task/static/media/mit.7fe15d6c5af08db00a6f.png",
     "static/media/harvard.png": "/frontend-task/static/media/harvard.513c2ec41305674c646f.png",
+    "static/media/hp.png": "/frontend-task/static/media/hp.bdcbc32eca10c7852a5e.png",
     "static/media/carnegie.png": "/frontend-task/static/media/carnegie.fe9dc46ee8d2416885b1.png",
+    "static/media/deloitte.png": "/frontend-task/static/media/deloitte.72470a3618f4d7086d88.png",
+    "static/media/microsoft.webp": "/frontend-task/static/media/microsoft.c3daeaa91be80b47f383.webp",
+    "static/media/intel.png": "/frontend-task/static/media/intel.4498efb77ab545f14593.png",
+    "static/media/csc.png": "/frontend-task/static/media/csc.8bd7ce948ff165ae703f.png",
+    "static/media/facebook.webp": "/frontend-task/static/media/facebook.fe3edacd7d640cb4879b.webp",
     "static/media/Ubergrad_transparent-logo.png": "/frontend-task/static/media/Ubergrad_transparent-logo.234f01d23c6a9950b65e.png",
     "static/media/stanfordd.png": "/frontend-task/static/media/stanfordd.c30f88c506602c4b9601.png",
     "static/media/princeton.jpg": "/frontend-task/static/media/princeton.637f7ded30a5730732c8.jpg",
+    "static/media/google.webp": "/frontend-task/static/media/google.231e93f41968539da7c7.webp",
+    "static/media/apple.svg": "/frontend-task/static/media/apple.134569f8a176d874c830345a091a4c33.svg",
     "index.html": "/frontend-task/index.html",
-    "main.124d6aaa.css.map": "/frontend-task/static/css/main.124d6aaa.css.map",
-    "main.256cfd79.js.map": "/frontend-task/static/js/main.256cfd79.js.map",
+    "main.fc60526e.css.map": "/frontend-task/static/css/main.fc60526e.css.map",
+    "main.35b80591.js.map": "/frontend-task/static/js/main.35b80591.js.map",
     "787.71776601.chunk.js.map": "/frontend-task/static/js/787.71776601.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.124d6aaa.css",
-    "static/js/main.256cfd79.js"
+    "static/css/main.fc60526e.css",
+    "static/js/main.35b80591.js"
   ]
 }
