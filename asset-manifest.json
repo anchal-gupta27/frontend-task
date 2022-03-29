@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/frontend-task/static/css/main.cb688df2.css",
-    "main.js": "/frontend-task/static/js/main.18abfaa8.js",
+    "main.css": "/frontend-task/static/css/main.124d6aaa.css",
+    "main.js": "/frontend-task/static/js/main.256cfd79.js",
     "static/js/787.71776601.chunk.js": "/frontend-task/static/js/787.71776601.chunk.js",
+    "static/media/mit.png": "/frontend-task/static/media/mit.7fe15d6c5af08db00a6f.png",
+    "static/media/harvard.png": "/frontend-task/static/media/harvard.513c2ec41305674c646f.png",
+    "static/media/carnegie.png": "/frontend-task/static/media/carnegie.fe9dc46ee8d2416885b1.png",
     "static/media/Ubergrad_transparent-logo.png": "/frontend-task/static/media/Ubergrad_transparent-logo.234f01d23c6a9950b65e.png",
+    "static/media/stanfordd.png": "/frontend-task/static/media/stanfordd.c30f88c506602c4b9601.png",
+    "static/media/princeton.jpg": "/frontend-task/static/media/princeton.637f7ded30a5730732c8.jpg",
     "index.html": "/frontend-task/index.html",
-    "main.cb688df2.css.map": "/frontend-task/static/css/main.cb688df2.css.map",
-    "main.18abfaa8.js.map": "/frontend-task/static/js/main.18abfaa8.js.map",
+    "main.124d6aaa.css.map": "/frontend-task/static/css/main.124d6aaa.css.map",
+    "main.256cfd79.js.map": "/frontend-task/static/js/main.256cfd79.js.map",
     "787.71776601.chunk.js.map": "/frontend-task/static/js/787.71776601.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb688df2.css",
-    "static/js/main.18abfaa8.js"
+    "static/css/main.124d6aaa.css",
+    "static/js/main.256cfd79.js"
   ]
 }
