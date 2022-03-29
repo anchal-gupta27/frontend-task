@@ -1,0 +1,38 @@
+.header-container {
+    background-color: #FCDE3C;
+}
+
+.header-container .header-items {
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-container .header-items .company-icon > img {
+    width: 200px;
+}
+
+.header-container .header-items .navbar-list > span {
+    font-size: 14px;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.header-container .header-items .btn-style > button {
+    padding: 10px 20px;
+    background-color: #EC6436;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.header-container .header-items .external-links > a {
+    font-weight: 600;
+    font-size: 12;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}

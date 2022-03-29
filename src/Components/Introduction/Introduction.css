@@ -1,0 +1,43 @@
+.introduction .tagline {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../../images/images.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 250px;
+
+   
+}
+
+.introduction .tagline {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+.introduction .tagline h3 {
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+.introduction .orange-line {
+    height: 2px;
+    background: #EC6436;
+    width: 100px;
+    display: flex;
+    margin: 0px auto;
+    border-radius: 20px;
+
+}
+
+
+.introduction .intro-content > h4 {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+.introduction .intro-content {
+    padding: 2% 3%;
+}

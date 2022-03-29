@@ -1,0 +1,36 @@
+.requirements {
+    padding: 1% 5%;
+}
+
+.requirements  h4 {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+.requirements .orange-line {
+    height: 4px;
+    background: #EC6436;
+    width: 100px;
+    display: flex;
+    margin: 0px auto;
+    border-radius: 20px;
+
+}
+
+.requirements .requirements-criteria {
+    margin-top: 30px;
+    
+}
+
+.requirements table {
+    width: 100%;
+}
+
+.requirements table td {
+    background-color: #F0F0F0;
+    padding: 13px 15px;
+    border: 3px solid white;
+    border-radius: 10px;
+
+}

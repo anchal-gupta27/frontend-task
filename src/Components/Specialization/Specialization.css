@@ -1,0 +1,38 @@
+.specialization {
+    background: #E5E7EB;
+    padding: 1%;
+    text-align: center;
+}
+
+.specialization  h4 {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+.specialization .orange-line {
+    height: 5px;
+    background: #EC6436;
+    width: 100px;
+    display: flex;
+    margin: 0px auto;
+    border-radius: 20px;
+
+}
+
+.specialization .items {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0% 10%;
+    justify-content: space-between;
+    align-items: center ;
+}
+
+.specialization .items .item-style {
+    background-color: white ;
+    font-weight: 700;
+    padding: 30px 40px;
+    border-radius: 10px;
+    width: 175px;
+    margin: 2%;
+}
