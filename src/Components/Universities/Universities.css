@@ -1,0 +1,42 @@
+.university  {
+    background: #E5E7EB;
+    padding: 2% 10%;
+   
+}
+
+.university h4 {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+.university p {
+    font-size: 12px;
+}
+
+.university .orange-line {
+    height: 5px;
+    background: #EC6436;
+    width: 100px;
+    display: flex;
+    margin: 0px auto;
+    border-radius: 20px;
+
+}
+
+.university table {
+    color: gray;
+    width: 100%;
+    text-align: left;
+    font-weight: 500;
+    
+}
+
+.university table td, table th {
+    padding: 1%;
+
+}
+
+.university img {
+    border-radius: 50%;
+}
